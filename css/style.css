@@ -1,0 +1,39 @@
+:root {
+    --bs-primary: #A55C3F; /* Substitua com sua cor personalizada */
+}
+
+.cor-primaria {
+    background-color: #A55C3F;
+    border: none;
+    color: white;
+}
+
+.header-bg {
+    background-color: #FCA760;
+}
+
+.main-bg {
+    background-color: #fbf6ed;
+}
+
+/*
+.footer-bg {
+    background-color: #5d5265;
+}
+
+footer p {
+    color: white;
+}
+
+section {
+    border: 1px solid red;
+} */
+
+.carousel-item img {
+    width: 60%;
+    /* Ajuste o tamanho conforme necessário */
+    height: auto;
+    /* Mantém a proporção da imagem */
+}
+
+
